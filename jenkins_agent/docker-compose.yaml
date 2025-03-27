@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   jenkins_agent:
     image: jenkins/ssh-agent:jdk11
